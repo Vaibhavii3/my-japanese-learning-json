@@ -1,0 +1,47 @@
+{
+    "category": "vocabulary",
+        "groups": [
+            {
+                "name": "people & pronouns",
+                "items": [
+                    { "jp": "わたし", "romaji": "watashi", "meaning": "I" },
+                    { "jp": "あなた", "romaji": "anata", "meaning": "you" }
+                ]
+            },
+            {
+                "name": "family",
+                "items": [
+                    { "jp": "ちち", "romaji": "chichi", "meaning": "father (my)" },
+                    { "jp": "はは", "romaji": "haha", "meaning": "mother (my)" }
+                ]
+            },
+            {
+                "name": "daily activities (verbs)",
+                "items": [
+                    { "jp": "いく", "romaji": "iku", "meaning": "to go" },
+                    { "jp": "たべる", "romaji": "taberu", "meaning": "to eat" }
+                ]
+            },
+            {
+                "name": "adjectives",
+                "items": [
+                    { "jp": "おおきい", "romaji": "ookii", "meaning": "big" },
+                    { "jp": "ちいさい", "romaji": "chiisai", "meaning": "small" }
+                ]
+            },
+            {
+                "name": "places",
+                "items": [
+                    { "jp": "いえ", "romaji": "ie", "meaning": "house" },
+                    { "jp": "がっこう", "romaji": "gakkou", "meaning": "school" }
+                ]
+            },
+            {
+                "name": "question words",
+                "items": [
+                    { "jp": "なに", "romaji": "nani", "meaning": "what" },
+                    { "jp": "どこ", "romaji": "doko", "meaning": "where" }
+                ]
+            }
+    ]
+}

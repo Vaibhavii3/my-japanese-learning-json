@@ -1,0 +1,20 @@
+{
+    "category": "numbers",
+    "groups": [
+        {
+            "name": "1-10",
+            "items": [
+                { "number": 1, "jp": "いち", "romaji": "ichi" },
+                { "number": 2, "jp": "に", "romaji": "ni" },
+                { "number": 3, "jp": "さん", "romaji": "san" },
+                { "number": 4, "jp": "よん", "romaji": "yon" },
+                { "number": 5, "jp": "ご", "romaji": "go" },
+                { "number": 6, "jp": "ろく", "romaji": "roku" },
+                { "number": 7, "jp": "なな", "romaji": "nana" },
+                { "number": 8, "jp": "はち", "romaji": "hachi" },
+                { "number": 9, "jp": "きゅう", "romaji": "kyuu" },
+                { "number": 10, "jp": "じゅう", "romaji": "juu" }
+            ]
+        }
+    ]
+}
