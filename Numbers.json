@@ -1,20 +1,60 @@
 {
-    "category": "numbers",
-    "groups": [
-        {
-            "name": "1-10",
-            "items": [
-                { "number": 1, "jp": "いち", "romaji": "ichi" },
-                { "number": 2, "jp": "に", "romaji": "ni" },
-                { "number": 3, "jp": "さん", "romaji": "san" },
-                { "number": 4, "jp": "よん", "romaji": "yon" },
-                { "number": 5, "jp": "ご", "romaji": "go" },
-                { "number": 6, "jp": "ろく", "romaji": "roku" },
-                { "number": 7, "jp": "なな", "romaji": "nana" },
-                { "number": 8, "jp": "はち", "romaji": "hachi" },
-                { "number": 9, "jp": "きゅう", "romaji": "kyuu" },
-                { "number": 10, "jp": "じゅう", "romaji": "juu" }
-            ]
-        }
-    ]
+  "category": "numbers",
+  "groups": [
+    {
+      "name": "1-10",
+      "items": [
+        { "number": 1, "kanji": "一", "jp": "いち", "romaji": "ichi" },
+        { "number": 2, "kanji": "二", "jp": "に", "romaji": "ni" },
+        { "number": 3, "kanji": "三", "jp": "さん", "romaji": "san" },
+        { "number": 4, "kanji": "四", "jp": "よん", "romaji": "yon" },
+        { "number": 5, "kanji": "五", "jp": "ご", "romaji": "go" },
+        { "number": 6, "kanji": "六", "jp": "ろく", "romaji": "roku" },
+        { "number": 7, "kanji": "七", "jp": "なな", "romaji": "nana" },
+        { "number": 8, "kanji": "八", "jp": "はち", "romaji": "hachi" },
+        { "number": 9, "kanji": "九", "jp": "きゅう", "romaji": "kyuu" },
+        { "number": 10, "kanji": "十", "jp": "じゅう", "romaji": "juu" }
+      ]
+    },
+    {
+      "name": "11-19",
+      "items": [
+        { "number": 11, "kanji": "十一", "jp": "じゅういち", "romaji": "juuichi" },
+        { "number": 12, "kanji": "十二", "jp": "じゅうに", "romaji": "juuni" },
+        { "number": 13, "kanji": "十三", "jp": "じゅうさん", "romaji": "juusan" },
+        { "number": 14, "kanji": "十四", "jp": "じゅうよん", "romaji": "juuyon" },
+        { "number": 15, "kanji": "十五", "jp": "じゅうご", "romaji": "juugo" },
+        { "number": 16, "kanji": "十六", "jp": "じゅうろく", "romaji": "juuroku" },
+        { "number": 17, "kanji": "十七", "jp": "じゅうなな", "romaji": "juunana" },
+        { "number": 18, "kanji": "十八", "jp": "じゅうはち", "romaji": "juuhachi" },
+        { "number": 19, "kanji": "十九", "jp": "じゅうきゅう", "romaji": "juukyuu" }
+      ]
+    },
+    {
+      "name": "20-90",
+      "items": [
+        { "number": 20, "kanji": "二十", "jp": "にじゅう", "romaji": "nijuu" },
+        { "number": 30, "kanji": "三十", "jp": "さんじゅう", "romaji": "sanjuu" },
+        { "number": 40, "kanji": "四十", "jp": "よんじゅう", "romaji": "yonjuu" },
+        { "number": 50, "kanji": "五十", "jp": "ごじゅう", "romaji": "gojuu" },
+        { "number": 60, "kanji": "六十", "jp": "ろくじゅう", "romaji": "rokujuu" },
+        { "number": 70, "kanji": "七十", "jp": "ななじゅう", "romaji": "nanajuu" },
+        { "number": 80, "kanji": "八十", "jp": "はちじゅう", "romaji": "hachijuu" },
+        { "number": 90, "kanji": "九十", "jp": "きゅうじゅう", "romaji": "kyuujuu" }
+      ]
+    },
+    {
+      "name": "21-99 (random)",
+      "items": [
+        { "number": 21, "kanji": "二十一", "jp": "にじゅういち", "romaji": "nijuuichi" },
+        { "number": 34, "kanji": "三十四", "jp": "さんじゅうよん", "romaji": "sanjuuyon" },
+        { "number": 47, "kanji": "四十七", "jp": "よんじゅうなな", "romaji": "yonjuunana" },
+        { "number": 58, "kanji": "五十八", "jp": "ごじゅうはち", "romaji": "gojuuhachi" },
+        { "number": 69, "kanji": "六十九", "jp": "ろくじゅうきゅう", "romaji": "rokujuukyuu" },
+        { "number": 72, "kanji": "七十二", "jp": "ななじゅうに", "romaji": "nanajuuni" },
+        { "number": 85, "kanji": "八十五", "jp": "はちじゅうご", "romaji": "hachijuugo" },
+        { "number": 99, "kanji": "九十九", "jp": "きゅうじゅうきゅう", "romaji": "kyuujuukyuu" }
+      ]
+    }
+  ]
 }
