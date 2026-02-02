@@ -55,6 +55,79 @@
         { "number": 85, "kanji": "八十五", "jp": "はちじゅうご", "romaji": "hachijuugo" },
         { "number": 99, "kanji": "九十九", "jp": "きゅうじゅうきゅう", "romaji": "kyuujuukyuu" }
       ]
+    },
+    {
+      "name": "100-900",
+      "items": [
+        { "number": 100, "kanji": "百", "jp": "ひゃく", "romaji": "hyaku" },
+        { "number": 200, "kanji": "二百", "jp": "にひゃく", "romaji": "nihyaku" },
+        { "number": 300, "kanji": "三百", "jp": "さんびゃく", "romaji": "sanbyaku" },
+        { "number": 400, "kanji": "四百", "jp": "よんひゃく", "romaji": "yonhyaku" },
+        { "number": 500, "kanji": "五百", "jp": "ごひゃく", "romaji": "gohyaku" },
+        { "number": 600, "kanji": "六百", "jp": "ろっぴゃく", "romaji": "roppyaku" },
+        { "number": 700, "kanji": "七百", "jp": "ななひゃく", "romaji": "nanahyaku" },
+        { "number": 800, "kanji": "八百", "jp": "はっぴゃく", "romaji": "happyaku" },
+        { "number": 900, "kanji": "九百", "jp": "きゅうひゃく", "romaji": "kyuuhyaku" }
+      ]
+    },
+    {
+      "name": "101-999 (random)",
+      "items": [
+        { "number": 101, "kanji": "百一", "jp": "ひゃくいち", "romaji": "hyakuichi" },
+        { "number": 234, "kanji": "二百三十四", "jp": "にひゃくさんじゅうよん", "romaji": "nihyakusanjuuyon" },
+        { "number": 356, "kanji": "三百五十六", "jp": "さんびゃくごじゅうろく", "romaji": "sanbyakugojuuroku" },
+        { "number": 408, "kanji": "四百八", "jp": "よんひゃくはち", "romaji": "yonhyakuhachi" },
+        { "number": 519, "kanji": "五百十九", "jp": "ごひゃくじゅうきゅう", "romaji": "gohyakujuukyuu" },
+        { "number": 642, "kanji": "六百四十二", "jp": "ろっぴゃくよんじゅうに", "romaji": "roppyakuyonjuuni" },
+        { "number": 777, "kanji": "七百七十七", "jp": "ななひゃくななじゅうなな", "romaji": "nanahyakunanajuunana" },
+        { "number": 888, "kanji": "八百八十八", "jp": "はっぴゃくはちじゅうはち", "romaji": "happyakuhachijuuhachi" },
+        { "number": 999, "kanji": "九百九十九", "jp": "きゅうひゃくきゅうじゅうきゅう", "romaji": "kyuuhyakukyuujuukyuu" }
+      ]
+    },
+    {
+      "name": "1000",
+      "items": [
+        { "number": 1000, "kanji": "千", "jp": "せん", "romaji": "sen" }
+      ]
+    },
+    {
+      "name": "1000-9000",
+      "items": [
+        { "number": 1000, "kanji": "千", "jp": "せん", "romaji": "sen" },
+        { "number": 2000, "kanji": "二千", "jp": "にせん", "romaji": "nisen" },
+        { "number": 3000, "kanji": "三千", "jp": "さんぜん", "romaji": "sanzen" },
+        { "number": 4000, "kanji": "四千", "jp": "よんせん", "romaji": "yonsen" },
+        { "number": 5000, "kanji": "五千", "jp": "ごせん", "romaji": "gosen" },
+        { "number": 6000, "kanji": "六千", "jp": "ろくせん", "romaji": "rokusen" },
+        { "number": 7000, "kanji": "七千", "jp": "ななせん", "romaji": "nanasen" },
+        { "number": 8000, "kanji": "八千", "jp": "はっせん", "romaji": "hassen" },
+        { "number": 9000, "kanji": "九千", "jp": "きゅうせん", "romaji": "kyuusen" }
+      ]
+    },
+    {
+      "name": "1001-9999 (random)",
+      "items": [
+        { "number": 1001, "kanji": "千一", "jp": "せんいち", "romaji": "senichi" },
+        { "number": 2345, "kanji": "二千三百四十五", "jp": "にせんさんびゃくよんじゅうご", "romaji": "nisensanbyakuyonjuugo" },
+        { "number": 3078, "kanji": "三千七十八", "jp": "さんぜんななじゅうはち", "romaji": "sanzennanajuuhachi" },
+        { "number": 4200, "kanji": "四千二百", "jp": "よんせんにひゃく", "romaji": "yonsennihyaku" },
+        { "number": 5555, "kanji": "五千五百五十五", "jp": "ごせんごひゃくごじゅうご", "romaji": "gosengohyakujuugo" },
+        { "number": 6789, "kanji": "六千七百八十九", "jp": "ろくせんななひゃくはちじゅうきゅう", "romaji": "rokusennanahyakuhachijuukyuu" },
+        { "number": 8008, "kanji": "八千八", "jp": "はっせんはち", "romaji": "hassenhachi" },
+        { "number": 9999, "kanji": "九千九百九十九", "jp": "きゅうせんきゅうひゃくきゅうじゅうきゅう", "romaji": "kyuusenkyuuhyakukyuujuukyuu" }
+      ]
+    },
+    {
+      "name": "10000",
+      "items": [
+        { "number": 10000, "kanji": "一万", "jp": "いちまん", "romaji": "ichiman" }
+      ]
+    },
+    {
+      "name": "100000",
+      "items": [
+        { "number": 100000, "kanji": "十万", "jp": "じゅうまん", "romaji": "juuman" }
+      ]
     }
   ]
 }
